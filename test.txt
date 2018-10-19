@@ -4,3 +4,4 @@ test2
 test3
 newadd_workspace
 remote_1
+remote_2
