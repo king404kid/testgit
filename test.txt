@@ -5,3 +5,5 @@ test3
 newadd_workspace
 remote_1
 remote_2
+squash1
+squash2
